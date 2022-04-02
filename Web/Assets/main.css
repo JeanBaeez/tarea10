@@ -1,0 +1,63 @@
+.centralizado{
+    text-align: center;
+    align-items: center;
+    color: #4672fe;
+    margin-top: 6em;
+}
+body,html{
+    background-color: white !important;
+}
+.navbar-default{
+    background-color: #111111 !important;
+    border-color: #111111 !important;
+}
+.SubCentralizado{
+     text-align: center;
+    align-items: center;
+    color: white;
+    margin-top: 1em;
+}
+.btnIrIncio,.animate__animated.animate__bounce
+
+{
+    --animate-duration: 3s;
+    text-align: center !important;
+    align-items: center !important;
+    color: white !important;
+    margin-top: 6em !important;
+}
+.btn_text_center{
+    text-align: center !important;
+    align-items: center !important;
+
+}
+.cards{
+    background-color: #111111 !important;
+    border-color: #111111 !important;
+    border-radius: 5px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    display: inline-block;
+}
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);}
+span,.card{
+    text-align: center;
+    align-items: center;
+    cursor: pointer;
+}
+.card-body{
+    background-color: #111111 !important;
+    border-color: #111111 !important;
+    border-radius: 5px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    display: inline-block;
+}
